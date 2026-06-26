@@ -1,0 +1,162 @@
+C:\Users\dimon\source\repos\sklad\sklad\obj\Debug\sklad.csproj.AssemblyReference.cache
+C:\Users\dimon\source\repos\sklad\sklad\obj\Debug\sklad.Properties.Resources.resources
+C:\Users\dimon\source\repos\sklad\sklad\obj\Debug\sklad.csproj.GenerateResource.cache
+C:\Users\dimon\source\repos\sklad\sklad\obj\Debug\sklad.csproj.CoreCompileInputs.cache
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\sklad.exe.config
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\sklad.exe
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\sklad.pdb
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dimon\source\repos\sklad\sklad\obj\Debug\sklad.csproj.Up2Date
+C:\Users\dimon\source\repos\sklad\sklad\obj\Debug\sklad.exe
+C:\Users\dimon\source\repos\sklad\sklad\obj\Debug\sklad.pdb
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\PdfSharpCore.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\SixLabors.Fonts.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Buffers.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Memory.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\SixLabors.Fonts.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Buffers.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Memory.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ClosedXML.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ClosedXML.Parser.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\RBush.dll
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ClosedXML.pdb
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ClosedXML.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ClosedXML.Parser.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dimon\source\repos\sklad\sklad\bin\Debug\RBush.xml
+C:\Users\dimon\source\repos\sklad\sklad\obj\Debug\sklad.frmLogin.resources
+D:\bd\sklad\sklad\bin\Debug\sklad.exe.config
+D:\bd\sklad\sklad\bin\Debug\sklad.exe
+D:\bd\sklad\sklad\bin\Debug\sklad.pdb
+D:\bd\sklad\sklad\bin\Debug\ClosedXML.dll
+D:\bd\sklad\sklad\bin\Debug\ClosedXML.Parser.dll
+D:\bd\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.dll
+D:\bd\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\bd\sklad\sklad\bin\Debug\EPPlus.Interfaces.dll
+D:\bd\sklad\sklad\bin\Debug\ExcelNumberFormat.dll
+D:\bd\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\bd\sklad\sklad\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\bd\sklad\sklad\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\bd\sklad\sklad\bin\Debug\PdfSharpCore.dll
+D:\bd\sklad\sklad\bin\Debug\RBush.dll
+D:\bd\sklad\sklad\bin\Debug\SixLabors.Fonts.dll
+D:\bd\sklad\sklad\bin\Debug\SixLabors.ImageSharp.dll
+D:\bd\sklad\sklad\bin\Debug\System.Buffers.dll
+D:\bd\sklad\sklad\bin\Debug\System.ComponentModel.Annotations.dll
+D:\bd\sklad\sklad\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\bd\sklad\sklad\bin\Debug\System.Memory.dll
+D:\bd\sklad\sklad\bin\Debug\System.Numerics.Vectors.dll
+D:\bd\sklad\sklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bd\sklad\sklad\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\bd\sklad\sklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\bd\sklad\sklad\bin\Debug\ClosedXML.pdb
+D:\bd\sklad\sklad\bin\Debug\ClosedXML.xml
+D:\bd\sklad\sklad\bin\Debug\ClosedXML.Parser.xml
+D:\bd\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.xml
+D:\bd\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\bd\sklad\sklad\bin\Debug\ExcelNumberFormat.xml
+D:\bd\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\bd\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\bd\sklad\sklad\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\bd\sklad\sklad\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\bd\sklad\sklad\bin\Debug\RBush.xml
+D:\bd\sklad\sklad\bin\Debug\SixLabors.Fonts.xml
+D:\bd\sklad\sklad\bin\Debug\SixLabors.ImageSharp.xml
+D:\bd\sklad\sklad\bin\Debug\System.Buffers.xml
+D:\bd\sklad\sklad\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\bd\sklad\sklad\bin\Debug\System.Memory.xml
+D:\bd\sklad\sklad\bin\Debug\System.Numerics.Vectors.xml
+D:\bd\sklad\sklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bd\sklad\sklad\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\bd\sklad\sklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\bd\sklad\sklad\bin\Debug\de\PdfSharpCore.resources.dll
+D:\bd\sklad\sklad\obj\Debug\sklad.csproj.AssemblyReference.cache
+D:\bd\sklad\sklad\obj\Debug\sklad.frmLogin.resources
+D:\bd\sklad\sklad\obj\Debug\sklad.Properties.Resources.resources
+D:\bd\sklad\sklad\obj\Debug\sklad.csproj.GenerateResource.cache
+D:\bd\sklad\sklad\obj\Debug\sklad.csproj.CoreCompileInputs.cache
+D:\bd\sklad\sklad\obj\Debug\sklad.csproj.Up2Date
+D:\bd\sklad\sklad\obj\Debug\sklad.exe
+D:\bd\sklad\sklad\obj\Debug\sklad.pdb
+D:\bd\sklad\sklad\bin\Debug\Guna.UI2.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\sklad.exe.config
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\sklad.exe
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\sklad.pdb
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ClosedXML.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ClosedXML.Parser.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ExcelNumberFormat.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\Guna.UI2.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\PdfSharpCore.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\RBush.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\SixLabors.Fonts.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Buffers.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Memory.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ClosedXML.pdb
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ClosedXML.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ClosedXML.Parser.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ExcelNumberFormat.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\RBush.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\SixLabors.Fonts.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Buffers.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Memory.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.csproj.AssemblyReference.cache
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.frmLogin.resources
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.Properties.Resources.resources
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.csproj.GenerateResource.cache
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.csproj.CoreCompileInputs.cache
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.csproj.Up2Date
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.exe
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.pdb
+C:\Users\dimon\OneDrive\Рабочий стол\bd\sklad\sklad\obj\Debug\sklad.frmMain.resources
